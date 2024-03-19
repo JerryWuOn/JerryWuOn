@@ -2,6 +2,8 @@
 
 <h3 align='center'>I’m currently working on a Digital Design and Development Diploma</h3>
 
+
+<h2 align='start'>Technologies & Tools</h2>
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img alt="FreeCodeCamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
@@ -13,6 +15,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 </p>
+
 
 <!--
 **JerryWuOn/JerryWuOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
