@@ -3,9 +3,12 @@
 <h3 align='center'>I’m currently working on a Digital Design and Development Diploma</h3>
 
 
-<h2 align='start'>Visit Portfolio</h2>
+<h2 align='start'>Visit Links</h2>
 <a href="https://www.jerrywuon.com/">
     <img alt="Portfolio" title="Vist Portfolio" target="_blank" src="https://img.shields.io/badge/Visit%20Portfolio%20-8A2BE2">
+</a>
+<a width='100'href="https://www.linkedin.com/in/jerry-on-/">
+    <img alt="LinkedIn" title="Vist LinkedIn" target="_blank" src="https://img.shields.io/badge/Visit%20LinkedIn%20-blue">
 </a>
 
 
