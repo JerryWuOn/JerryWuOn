@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hello! My name is Jerry On</h1>
+
+<h3 align='center'>I’m currently working on a Digital Design and Development Diploma</h3>
 
 <!--
 **JerryWuOn/JerryWuOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
