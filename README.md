@@ -3,6 +3,13 @@
 <h3 align='center'>I’m currently working on a Digital Design and Development Diploma</h3>
 
 
+<h2 align='start'>Visit Portfolio</h2>
+<a href="https://www.jerrywuon.com/">
+    <img alt="Portfolio" title="Vist Portfolio" target="_blank" src="https://img.shields.io/badge/Visit%20Portfolio%20-8A2BE2">
+</a>
+
+
+
 <h2 align='start'>Technologies & Tools</h2>
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
