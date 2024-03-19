@@ -1,19 +1,19 @@
-<h1 align="center">Hello! My name is Jerry On</h1>
+<h1 align="center">👋 Hello! My name is Jerry On</h1>
 
-<h3 align='center'>I’m currently working on a Digital Design and Development Diploma</h3>
+<h3 align='center'>👨‍🎓 I’m currently working on a Digital Design and Development Diploma</h3>
 
 
-<h2 align='start'>Visit Links</h2>
+<h2 align='start'>😎 Visit Links</h2>
 <a href="https://www.jerrywuon.com/">
     <img alt="Portfolio" title="Vist Portfolio" target="_blank" src="https://img.shields.io/badge/Visit%20Portfolio%20-8A2BE2">
 </a>
-<a width='100'href="https://www.linkedin.com/in/jerry-on-/">
-    <img alt="LinkedIn" title="Vist LinkedIn" target="_blank" src="https://img.shields.io/badge/Visit%20LinkedIn%20-blue">
+<a href="https://www.linkedin.com/in/jerry-on-/">
+    <img alt="LinkedIn" title="Vist LinkedIn" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 
 
-<h2 align='start'>Technologies & Tools</h2>
+<h2 align='start'>🧰 Technologies & Tools</h2>
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img alt="FreeCodeCamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
