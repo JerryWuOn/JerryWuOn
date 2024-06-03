@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! My name is Jerry On</h1>
 
-<h3 align='center'>👨‍🎓 I’m currently working on a Digital Design and Development Diploma</h3>
+<h3 align='center'>👨‍🎓 I am a Digital Design and Development Diploma grad</h3>
 <h4 align='center'>I’m currently learning Algorithms and Data Structures with Java</h4>
 
 
